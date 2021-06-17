@@ -1,6 +1,7 @@
 # snake-game
 <h1 align="center">🕸🐍 Snake Game 🐍🕸</h1>
-
+  <img alt="Snake Game" title="Snake Game" src="./imgs/capa.png" />
+</h1>
 
 <h2 align="center">
     <a href="https://web.digitalinnovation.one/home">🔗 Digital Innovation One</a>
