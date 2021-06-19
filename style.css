@@ -1,35 +1,26 @@
-@font-face {
-	font-family:Titulo;
-	src:url(../fontes/Chomsky.OTF);
-} 
+@import url(https://fonts.googleapis.com/css2?family=DotGothic16&display=swap);
 
 h1 {
-    font-family: Titulo;
-    color: #483D8B;
-    font-size: 40px;
-    border-width: medium;
-    border-style: groove;
-    border-color: #483D8B;
-    border-bottom-width: 10px;
-    border-right-width: 10px;
-    border-left-width: 10px;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 50px;
 }
 
 body {
-    background-color: black;
+    background-color: hsla(89, 43%, 51%, 0.3);
     height: 95vh;
     width: 95;
     display: flex;
     justify-content: center; 
     align-items: center; 
     flex-direction: column;
-    color: #2f3b5d;
+    color: #652ec7;
 }
 
 canvas {
-        border-width: 6px;
-        border-style: dotted;
-        border-color: #2f5d51;
-        border-style: solid;
+   border-width: medium;
+   border-style: dotted;
+   border-color: #00f;
+  }
+
         
-}
+} /*#440BD4
